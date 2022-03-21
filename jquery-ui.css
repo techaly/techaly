@@ -1,0 +1,5 @@
+/* Code tidied up by ScrapBook */
+.ui-helper-hidden-accessible { border: 0px none; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; }
+.ui-front { z-index: 100; }
+.ui-widget { font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; font-size: 1.1em; }
+.ui-widget-content { border: 1px solid rgb(221, 221, 221); background: rgb(238, 238, 238) url("ui-bg_highlight-soft_100_eeeeee_1x100.png") repeat-x scroll 50% top; color: rgb(51, 51, 51); }
